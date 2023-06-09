@@ -6,6 +6,7 @@ import (
 	"net/http"
 )
 
+// The list of jokes is from https://github.com/mshwery/dad-jokes-api/blob/master/jokes.json
 var listOfJokes = []string{
 	"When the window fell into the incinerator, it was a pane in the ash to retrieve.",
 	"What's a pirate's favorite letter? It be the Sea",
