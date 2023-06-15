@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/pact-foundation/pact-go/v2 v2.0.0-beta.22
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 )
 
 require (
@@ -12,6 +12,7 @@ require (
 	cloud.google.com/go/compute v1.6.1 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
 	cloud.google.com/go/storage v1.22.1 // indirect
+	github.com/adnanbrq/goenv v1.0.1
 	github.com/aws/aws-sdk-go v1.44.20 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
